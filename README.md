@@ -72,7 +72,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   {
   "email": "user@example.com",
   "password": "password123"
-}
+  }
 
 ### Search Users
 - **Endpoint:** `/search/`
@@ -86,7 +86,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   ```json
   {
   "to_user_id": 1
-}
+  }
 
 ### Accept Friend Request
 - **Endpoint:** `/friend-request/accept/`
@@ -95,7 +95,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   ```json
   {
   "request_id": 1
-}
+  }
 
 ### Reject Friend Request
 - **Endpoint:** `/friend-request/reject/`
@@ -121,7 +121,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   ```json
   {
   "blocked_user_id": 1
-}
+  }
 
 ### Unblock User
 - **Endpoint:** `/unblock-user/`
@@ -130,7 +130,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   ```json
   {
   "blocked_user_id": 1
-}
+  }
 
 ### User Activity
 - **Endpoint:** `/user-activity/`
