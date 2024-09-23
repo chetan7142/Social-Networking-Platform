@@ -8,7 +8,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [API Documentation](#api-documentation)
-- [Design Choice].(#design-choice)
+- [Design Choices].(#design-choices)
 
 ## Features
 
