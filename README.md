@@ -7,10 +7,8 @@ A RESTful API built with Django Rest Framework for a social networking applicati
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+- [API Documentation](#api-documentation)
+- [Design Choice].(#design-choice)
 
 ## Features
 
@@ -27,6 +25,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
 - PostgreSQL
 - Django Simple JWT for authentication
 - Python 3.x
+- Redis
 
 ## Installation
 
