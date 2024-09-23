@@ -9,6 +9,7 @@ A RESTful API built with Django Rest Framework for a social networking applicati
 - [Installation](#installation)
 - [API Documentation](#api-documentation)
 - [Design Choices](#design-choices)
+- [Postman Collection Link](#postman-collection-link)
 
 ## Features
 
@@ -143,3 +144,5 @@ A RESTful API built with Django Rest Framework for a social networking applicati
 - Blocking Mechanism: Implemented blocking functionality to prevent users from interacting with blocked users.
 - Caching: Used caching for friend lists and pending requests to improve performance.
 
+### Postman Collection Link
+https://gold-robot-984460.postman.co/workspace/social_network~f9fe02a8-70e2-445e-b020-009a865f9812/collection/19960014-0b9decb5-f583-4618-bf56-47ec078bd6c1?action=share&creator=19960014
