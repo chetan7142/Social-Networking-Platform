@@ -132,6 +132,10 @@ A RESTful API built with Django Rest Framework for a social networking applicati
   "blocked_user_id": 1
 }
 
+### User Activity
+- **Endpoint:** `/user-activity/`
+- **Method:** `GET`
+
 ### Design Choices
 - Custom User Model: Used CustomUser model to handle user authentication with email instead of username.
 - Friendship Management: Used a Friendship model to manage relationships between users, allowing statuses like pending, accepted, and rejected.
